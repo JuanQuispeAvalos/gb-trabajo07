@@ -1,4 +1,4 @@
-# Seguridad en Redes - Trabajo 7
+# Sistemas Distribuidos - Trabajo 7
 
 __Monitor:__
 
